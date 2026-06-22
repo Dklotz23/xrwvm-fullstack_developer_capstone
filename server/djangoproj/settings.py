@@ -37,11 +37,11 @@ ALLOWED_HOSTS = [
 ]
 CSRF_TRUSTED_ORIGINS = [
     (
-    'https://devinmklotz-8000.theianext-1-labs-prod-misc-tools-us-east-0.
+    'https://devinmklotz-8000.theianext-1-labs-prod-misc-tools-us-east-0.'
     'proxy.cognitiveclass.ai'
     ),
     ( 
-    'https://devinmklotz-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.
+    'https://devinmklotz-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.'
     'proxy.cognitiveclass.ai'
     )
 ]

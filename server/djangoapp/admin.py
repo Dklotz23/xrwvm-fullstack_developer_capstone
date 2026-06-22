@@ -14,6 +14,8 @@ class CarModelAdmin(admin.ModelAdmin):
 
 
 admin.site.register(CarModel)
+
+
 # CarMakeAdmin class with CarModelInline
 class CarMakeAdmin(admin.ModelAdmin):
     list_display = ('name', 'description')
